@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="white">#FFFFFF</color>
+	<color name="black">#000000</color>
+	<color name="white_gray">#CFCFCF</color>
+	<color name="light_gray">#DFDFDF</color>	
+	<color name="dark_gray">#907F7F7F</color>
+	<color name="kindof_gray">#6a6a6a</color>
+	<color name="black_gray">#3F3F3F</color>
+	<color name="light_blue">#3B5998</color>
+	<color name="mid_blue">#3B5998</color>
+	<color name="dark_blue">#193A7F</color>
+	<color name="steel_blue">#5CACEE</color>
+	<color name="yellow">#FFC125</color>
+	<color name="yellow2">#ffB014</color>
+	<color name="transparent">#00000000</color>
+	<color name="transparent_black">#90000000</color>
+	<color name="transparent_gray">#E4000000</color>
+	<color name="slate_old">#064477</color>
+	<color name="slate">#E4000000</color>
+	<color name="blue_gray">#13558d</color>
+	<color name="mm_logo_blue">#00acec</color>
+	<color name="pink">#da1c5b</color>
+</resources>
